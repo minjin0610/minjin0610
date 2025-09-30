@@ -6,9 +6,8 @@
   <div style="font-size: 28px; font-weight: bold; color: #282d33;">Hi, I'm Min Jin Kim! 👋🏻</div>
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"></div> 
 </div>
-
 <div align="center">
-  <div style="font-size: 24px; font-weight: bold; margin-top: 30px;">⚙️ Tech Stacks</div> <br>
+  <div style="font-size: 28px; font-weight: 900; margin-top: 30px;">⚙️ Tech Stacks</div> <br>
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -21,7 +20,7 @@
 </div>
 
 <div align="center">
-  <div style="font-size: 24px; font-weight: bold; margin-top: 30px;">🛠️ Tools</div> <br>
+  <div style="font-size: 28px; font-weight: 900; margin-top: 30px;">🛠️ Tools</div> <br>
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
@@ -29,14 +28,13 @@
 </div>
 
 <div align="center">
-  <div style="font-size: 24px; font-weight: bold; margin-top: 30px;">🧑‍💻 Contact me</div> <br>
+  <div style="font-size: 28px; font-weight: 900; margin-top: 30px;">🧑‍💻 Contact me</div> <br>
   <div align="center">
     <a href="mailto:minjin3755@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
   </div> <br>
 </div>
-
 
 
 <!--
