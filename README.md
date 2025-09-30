@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h3 style="margin-top: 100px;">⚙️ Tech Stacks</h3>
+  <h3 style="margin-top: 1000px;">⚙️ Tech Stacks</h3>
   <br>
   <div style="margin: 0 auto; text-align: center;" align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <h3 style="margin-top: 100px;">🛠️ Tools</h3>
+  <h3 style="margin-top: 1000px;">🛠️ Tools</h3>
   <br>
   <div style="margin: 0 auto; text-align: center;" align="center">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h3 style="margin-top: 100px;">🧑‍💻 Contact me</h3>
+  <h3 style="margin-top: 1000px;">🧑‍💻 Contact me</h3>
   <br>
   <div align="center">
     <a href="mailto:minjin3755@gmail.com">
