@@ -8,7 +8,10 @@
 </div>
 
 <div align="center">
-  <h3 style="margin-top: 1000px;">⚙️ Tech Stacks</h3>
+  <div align="center" style="margin-top: 50px; font-size: 24px; font-weight: 900;">
+  ⚙️ Tech Stacks
+</div>
+
   <br>
   <div style="margin: 0 auto; text-align: center;" align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
