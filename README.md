@@ -44,6 +44,13 @@
   <br>
 </div>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minjin0610&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minjin0610"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **minjin0610/minjin0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
